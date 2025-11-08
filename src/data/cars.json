@@ -1,0 +1,883 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Tata Punch",
+      "price": "₹5.50 - 9.30 Lakh*",
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Punch/9623/1762425519212/front-left-side-47.jpg?tr=w-664",
+      "rating": 4.5,
+      "reviews": 1400,
+      "fuel": ["Petrol", "CNG"],
+      "transmission": ["Manual", "Automatic"],
+      "engine": "1199cc",
+      "power": "72 - 87 bhp",
+      "mileage": "18.97 kmpl",
+      "groundClearance": "187mm",
+      "bootSpace": "360 liters",
+      "safetyRating": "5 Star Global NCAP",
+      "features": ["5 Star Safety", "Touchscreen", "Automatic Climate Control"],
+      "offers": "View November Offers",
+      "isPopular": true,
+      "description": "The Tata Punch is the most affordable SUV in 2025 with a 5-star Global NCAP safety rating.",
+      "variants": [
+        {
+          "name": "Punch Pure",
+          "price": "₹5.50 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Manual",
+          "waitingPeriod": "1 month"
+        },
+        {
+          "name": "Punch Pure Opt",
+          "price": "₹6.24 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Manual",
+          "waitingPeriod": "1 month"
+        },
+        {
+          "name": "Punch Adventure",
+          "price": "₹6.56 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Manual",
+          "waitingPeriod": "1 month"
+        }
+      ],
+      "pros": [
+        "Mini SUV looks with hatchback dimensions, strong road presence",
+        "High-quality plastic feel in the interior",
+        "Spacious cabin with ample legroom and headroom (suitable for 6ft tall individuals)"
+      ],
+      "cons": [
+        "Even the top variant doesn't get six airbags",
+        "Lacks power at high speeds, more noticeable with a full load of passengers"
+      ],
+      "highlights": [
+        "Bestselling car in India in 2024",
+        "First proper micro SUV",
+        "5-star Global NCAP safety rating"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Maruti Suzuki Swift",
+      "price": "₹5.92 - 8.85 Lakh*",
+      "image": "https://imgs.search.brave.com/nPuxlnjTQ0rIN-WwjGpEb_4bFnnV4RCYQKRm1D1BBss/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/YXV0b2NhcmluZGlh/LmNvbS9tbXZfaW1h/Z2VzL2NvbG9ycy8y/MDI1MDcwNDA0MTgw/MV9NYXJ1dGlfU3V6/dWtpX1N3aWZ0X1Np/enpsaW5nX1JlZFsx/XS5qcGc_dz02NDAm/cT03NQ",
+      "rating": 4.3,
+      "reviews": 2100,
+      "fuel": ["Petrol"],
+      "transmission": ["Manual", "Automatic"],
+      "engine": "1197cc",
+      "power": "88.50 bhp",
+      "mileage": "23.20 kmpl",
+      "groundClearance": "163mm",
+      "bootSpace": "268 liters",
+      "safetyRating": "2 Star Global NCAP",
+      "features": ["Touchscreen", "Dual Airbags", "ABS"],
+      "offers": "Limited Period Offers",
+      "isPopular": true,
+      "description": "The Maruti Suzuki Swift is a popular hatchback known for its fuel efficiency and peppy performance.",
+      "variants": [
+        {
+          "name": "Swift LXi",
+          "price": "₹5.92 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Manual",
+          "waitingPeriod": "1 month"
+        },
+        {
+          "name": "Swift VXi",
+          "price": "₹6.80 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Manual",
+          "waitingPeriod": "1 month"
+        }
+      ],
+      "pros": [
+        "Excellent fuel efficiency",
+        "Peppy and responsive engine",
+        "Low maintenance costs"
+      ],
+      "cons": [
+        "Limited safety features",
+        "Not very spacious for rear passengers"
+      ],
+      "highlights": [
+        "One of the best-selling hatchbacks in India",
+        "Proven Maruti Suzuki reliability",
+        "Good resale value"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hyundai i20",
+      "price": "₹6.80 - 11.20 Lakh*",
+      "image": "https://imgs.search.brave.com/3QPp9CTAXUvKTZA-R7vRoE9YmDcyFb28LJop1KmYxTo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aHl1bmRhaS5jb20v/Y29udGVudC9kYW0v/aHl1bmRhaS9zaXRl/cy91ay9tb2RlbC1w/YWdlL25ldy1pMjAv/dmlzdWFsaXplcnMv/bWV0YS1ibHVlLXBl/YXJsL0JDM19JQ0Vf/RVZpel9FWFRfNVBN/X01ldGFCbHVlUGVh/cmxfNTI5MTBRMDMz/MF9TSE9UMy5qcGc",
+      "rating": 4.4,
+      "reviews": 1800,
+      "fuel": ["Petrol", "Diesel"],
+      "transmission": ["Manual", "Automatic"],
+      "engine": "1197cc / 1493cc",
+      "power": "82 bhp / 99 bhp",
+      "mileage": "20.28 kmpl / 25.20 kmpl",
+      "groundClearance": "170mm",
+      "bootSpace": "311 liters",
+      "safetyRating": "3 Star Global NCAP",
+      "features": ["Sunroof", "Wireless Charging", "BlueLink"],
+      "offers": "Festive Offers Available",
+      "isPopular": false,
+      "description": "The Hyundai i20 is a premium hatchback with stylish design and feature-rich cabin.",
+      "variants": [
+        {
+          "name": "i20 Magna",
+          "price": "₹6.80 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Manual",
+          "waitingPeriod": "1 month"
+        },
+        {
+          "name": "i20 Sportz",
+          "price": "₹7.70 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Manual",
+          "waitingPeriod": "1 month"
+        }
+      ],
+      "pros": [
+        "Premium interior with good quality materials",
+        "Feature-loaded with segment-first amenities",
+        "Comfortable ride quality"
+      ],
+      "cons": [
+        "Not as fuel-efficient as some rivals",
+        "Rear seat space could be better"
+      ],
+      "highlights": [
+        "Stylish European design",
+        "BlueLink connected car technology",
+        "Multiple powertrain options"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Tata Nexon",
+      "price": "₹7.60 - 14.08 Lakh*",
+      "image": "https://imgs.search.brave.com/YdEOi08mmkHIgfAgwSKSueMrUhxtM6tMF3J3YDsPODI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2FyYW5kYmlrZS5j/b20vX25leHQvaW1h/Z2U_dXJsPWh0dHBz/Oi8vaW1hZ2VzLmNh/cmFuZGJpa2UuY29t/L2Nhci1pbWFnZXMv/Z2FsbGVyeS90YXRh/L25leG9uL2V4dGVy/aW9yL3RhdGFfbmV4/b25faWNuZ19yaWRl/dmlld182LmpwZyZ3/PTE5MjAmcT03NQ",
+      "rating": 4.5,
+      "reviews": 3200,
+      "fuel": ["Petrol", "Diesel"],
+      "transmission": ["Manual", "Automatic"],
+      "engine": "1199cc / 1497cc",
+      "power": "118.36 bhp / 118.27 bhp",
+      "mileage": "17.57 kmpl / 21.15 kmpl",
+      "groundClearance": "209mm",
+      "bootSpace": "350 liters",
+      "safetyRating": "5 Star Global NCAP",
+      "features": ["5 Star Safety", "Panoramic Sunroof", "iRA Connected Tech"],
+      "offers": "Special Discounts",
+      "isPopular": true,
+      "description": "The Tata Nexon is a compact SUV with a 5-star safety rating and feature-rich options.",
+      "variants": [
+        {
+          "name": "Nexon XE",
+          "price": "₹7.60 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Manual",
+          "waitingPeriod": "1 month"
+        },
+        {
+          "name": "Nexon XM",
+          "price": "₹8.70 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Manual",
+          "waitingPeriod": "1 month"
+        }
+      ],
+      "pros": [
+        "5-star Global NCAP safety rating",
+        "Spacious cabin and comfortable seats",
+        "Feature-rich with connected car technology"
+      ],
+      "cons": [
+        "Not as refined as some rivals",
+        "After-sales service network could be better"
+      ],
+      "highlights": [
+        "First Indian car to get 5-star Global NCAP rating",
+        "Available with both petrol and diesel engines",
+        "Bold and masculine design"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Maruti Suzuki Baleno",
+      "price": "₹6.35 - 9.49 Lakh*",
+      "image": "https://imgs.search.brave.com/5lSQTBLByn6AZgC1Aq1aLfY88eLyp0E1o2fAg1m0eig/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hdXRv/LmhpbmR1c3RhbnRp/bWVzLmNvbS9fbmV4/dC9pbWFnZT91cmw9/aHR0cHM6Ly9hdXRv/LmhpbmR1c3RhbnRp/bWVzLmNvbS9jbXMt/aW1hZ2VzL21hcnV0/aXN1enVraV9iYWxl/bm8vaW1hZ2VzL2V4/dGVyaW9yX21hcnV0/aXN1enVraS1iYWxl/bm8tZmFjZWxpZnRf/ZnJvbnQtcmlnaHQt/dmlldy0xXzYwMHgz/OTguanBnJnc9Mzg0/MCZxPTc1",
+      "rating": 4.2,
+      "reviews": 1900,
+      "fuel": ["Petrol"],
+      "transmission": ["Manual", "Automatic"],
+      "engine": "1197cc",
+      "power": "88.50 bhp",
+      "mileage": "21.01 kmpl",
+      "groundClearance": "170mm",
+      "bootSpace": "318 liters",
+      "safetyRating": "2 Star Global NCAP",
+      "features": ["SmartPlay Studio", "AGS", "LED Headlamps"],
+      "offers": "Exchange Bonus",
+      "isPopular": false,
+      "description": "The Maruti Suzuki Baleno is a premium hatchback with good fuel efficiency and Maruti's reliability.",
+      "variants": [
+        {
+          "name": "Baleno Sigma",
+          "price": "₹6.35 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Manual",
+          "waitingPeriod": "1 month"
+        },
+        {
+          "name": "Baleno Delta",
+          "price": "₹7.25 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Manual",
+          "waitingPeriod": "1 month"
+        }
+      ],
+      "pros": [
+        "Excellent fuel efficiency",
+        "Spacious interior for its segment",
+        "Low maintenance costs"
+      ],
+      "cons": [
+        "Build quality could be better",
+        "Not very engaging to drive"
+      ],
+      "highlights": [
+        "One of the most fuel-efficient premium hatchbacks",
+        "Maruti Suzuki's extensive service network",
+        "Good resale value"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Hyundai Venue",
+      "price": "₹6.99 - 11.84 Lakh*",
+      "image": "https://imgs.search.brave.com/F2CSi86gv6lM3SCHCEjt99uOcDWvWg-lBuRfylFc8S0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdj/ZG4uemlnd2hlZWxz/LnVzL2xhcmdlL2dh/bGxlcnkvZXh0ZXJp/b3IvMi8yMTMvaHl1/bmRhaS12ZW51ZS1m/cm9udC1hbmdsZS1s/b3ctdmlldy03NzI0/NzQuanBn",
+      "rating": 4.3,
+      "reviews": 2400,
+      "fuel": ["Petrol", "Diesel"],
+      "transmission": ["Manual", "Automatic"],
+      "engine": "1197cc / 1493cc",
+      "power": "81.86 bhp / 98.64 bhp",
+      "mileage": "18.27 kmpl / 23.70 kmpl",
+      "groundClearance": "195mm",
+      "bootSpace": "350 liters",
+      "safetyRating": "4 Star Global NCAP",
+      "features": ["Bluelink", "Air Purifier", "Wireless Charging"],
+      "offers": "Corporate Discounts",
+      "isPopular": true,
+      "description": "The Hyundai Venue is a sub-compact SUV with stylish design and connected car technology.",
+      "variants": [
+        {
+          "name": "Venue E",
+          "price": "₹6.99 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Manual",
+          "waitingPeriod": "1 month"
+        },
+        {
+          "name": "Venue S",
+          "price": "₹8.15 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Manual",
+          "waitingPeriod": "1 month"
+        }
+      ],
+      "pros": [
+        "Stylish design and premium feel",
+        "Feature-rich with connected car technology",
+        "Multiple powertrain options"
+      ],
+      "cons": [
+        "Not as spacious as some rivals",
+        "Rear seat comfort could be better"
+      ],
+      "highlights": [
+        "First car in India with BlueLink connected tech",
+        "Stylish design with signature cascading grille",
+        "Good balance of features and pricing"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Mahindra XUV700",
+      "price": "₹13.99 - 26.99 Lakh*",
+      "image": "https://imgs.search.brave.com/o4ybME0HcmyyWcDfSoBz-ob1x_nUbh46cyU2e5D1IK4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY2FyZXhwZXJ0/LmNvbS5hdS9yZXNp/emUvOTYwLy0vY21z/L3YxL21lZGlhLzIw/MjUtMDYtMjAyNS1t/YWhpbmRyYS14dXY3/MDAtYXg3bC0xNS5q/cGc",
+      "rating": 4.6,
+      "reviews": 2800,
+      "fuel": ["Petrol", "Diesel"],
+      "transmission": ["Manual", "Automatic"],
+      "engine": "1997cc / 2184cc",
+      "power": "197 bhp / 182 bhp",
+      "mileage": "15.0 - 17.0 kmpl",
+      "groundClearance": "200mm",
+      "bootSpace": "240 - 960 liters",
+      "safetyRating": "5 Star Global NCAP",
+      "features": ["Panoramic Sunroof", "Level-2 ADAS", "Dual 10.25-inch Screens", "Sony 3D Sound"],
+      "offers": "Year-End Benefits",
+      "isPopular": true,
+      "description": "The Mahindra XUV700 is a premium 7-seater SUV with ADAS, powerful engines, and luxurious features.",
+      "variants": [
+        {
+          "name": "XUV700 MX",
+          "price": "₹13.99 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Manual",
+          "waitingPeriod": "2-3 months"
+        },
+        {
+          "name": "XUV700 AX3",
+          "price": "₹16.39 Lakh*",
+          "fuel": "Diesel",
+          "transmission": "Manual",
+          "waitingPeriod": "2-3 months"
+        }
+      ],
+      "pros": [
+        "Segment-leading features including ADAS",
+        "Powerful petrol and diesel engines",
+        "Spacious and premium 7-seater cabin"
+      ],
+      "cons": [
+        "Long waiting period",
+        "Fuel efficiency could be better in city"
+      ],
+      "highlights": [
+        "India's first SUV with Level-2 ADAS",
+        "Most powerful diesel in segment",
+        "5-star Global NCAP safety"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Toyota Fortuner",
+      "price": "₹33.43 - 51.44 Lakh*",
+      "image": "https://i.pinimg.com/736x/e8/f5/4a/e8f54a0370f40eb8d65094adc5778167.jpg",
+      "rating": 4.7,
+      "reviews": 3500,
+      "fuel": ["Petrol", "Diesel"],
+      "transmission": ["Manual", "Automatic"],
+      "engine": "2694cc / 2755cc",
+      "power": "164 bhp / 201 bhp",
+      "mileage": "10.0 - 14.4 kmpl",
+      "groundClearance": "225mm",
+      "bootSpace": "296 - 1050 liters",
+      "safetyRating": "5 Star ASEAN NCAP",
+      "features": ["Ventilated Seats", "360° Camera", "JBL Audio", "4x4 Option"],
+      "offers": "Corporate Offers",
+      "isPopular": true,
+      "description": "The Toyota Fortuner is India's most popular full-size SUV known for its ruggedness and reliability.",
+      "variants": [
+        {
+          "name": "Fortuner 4X2 MT",
+          "price": "₹33.43 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Manual",
+          "waitingPeriod": "1-2 months"
+        },
+        {
+          "name": "Fortuner 4X2 AT Diesel",
+          "price": "₹38.82 Lakh*",
+          "fuel": "Diesel",
+          "transmission": "Automatic",
+          "waitingPeriod": "1-2 months"
+        }
+      ],
+      "pros": [
+        "Legendary Toyota reliability",
+        "Strong road presence and off-road capability",
+        "High resale value"
+      ],
+      "cons": [
+        "Expensive compared to rivals",
+        "Dated interior design"
+      ],
+      "highlights": [
+        "Most sold full-size SUV in India",
+        "Available with 4x4",
+        "Proven 2.8L diesel engine"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Kia EV6",
+      "price": "₹60.97 - 65.97 Lakh*",
+      "image": "https://i.pinimg.com/736x/2f/5a/29/2f5a29fa517f2e34b9c22f32573b6e2d.jpg",
+      "rating": 4.5,
+      "reviews": 420,
+      "fuel": ["Electric"],
+      "transmission": ["Automatic"],
+      "engine": "77.4 kWh Battery",
+      "power": "225 - 320 bhp",
+      "mileage": "708 km/charge",
+      "groundClearance": "178mm",
+      "bootSpace": "490 liters",
+      "safetyRating": "5 Star Euro NCAP",
+      "features": ["77.4 kWh Battery", "V2L", "ADAS", "Meridian Sound"],
+      "offers": "Introductory Benefits",
+      "isPopular": false,
+      "description": "The Kia EV6 is a premium electric crossover with ultra-fast charging and futuristic design.",
+      "variants": [
+        {
+          "name": "EV6 GT-Line RWD",
+          "price": "₹60.97 Lakh*",
+          "fuel": "Electric",
+          "transmission": "Automatic",
+          "waitingPeriod": "3-4 months"
+        },
+        {
+          "name": "EV6 GT-Line AWD",
+          "price": "₹65.97 Lakh*",
+          "fuel": "Electric",
+          "transmission": "Automatic",
+          "waitingPeriod": "3-4 months"
+        }
+      ],
+      "pros": [
+        "708 km range with ultra-fast charging",
+        "Futuristic design and premium interior",
+        "Advanced ADAS and safety features"
+      ],
+      "cons": [
+        "Limited charging infrastructure",
+        "High price compared to ICE SUVs"
+      ],
+      "highlights": [
+        "India's first dedicated EV platform car",
+        "0-100 in 5.2 seconds (AWD)",
+        "V2L (Vehicle to Load) capability"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "BMW 3 Series",
+      "price": "₹72.90 Lakh*",
+      "image": "https://i.pinimg.com/1200x/99/44/1f/99441fb942b00dfd310e81ffc6da4c57.jpg",
+      "rating": 4.6,
+      "reviews": 890,
+      "fuel": ["Petrol"],
+      "transmission": ["Automatic"],
+      "engine": "1998cc",
+      "power": "255 bhp",
+      "mileage": "13.02 kmpl",
+      "groundClearance": "135mm",
+      "bootSpace": "480 liters",
+      "safetyRating": "5 Star Euro NCAP",
+      "features": ["Curved Display", "iDrive 8", "Laser Headlights", "Harman Kardon"],
+      "offers": "Corporate Lease Offers",
+      "isPopular": true,
+      "description": "The BMW 3 Series is the benchmark sports sedan with perfect balance of luxury and performance.",
+      "variants": [
+        {
+          "name": "330Li M Sport",
+          "price": "₹72.90 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Automatic",
+          "waitingPeriod": "2-3 months"
+        }
+      ],
+      "pros": [
+        "Best-in-class driving dynamics",
+        "Luxurious and tech-rich cabin",
+        "Powerful and efficient engine"
+      ],
+      "cons": [
+        "Firm ride quality",
+        "Rear seat space average for class"
+      ],
+      "highlights": [
+        "India's best-selling luxury sedan",
+        "Rear-wheel drive layout",
+        "0-100 in 5.8 seconds"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Mercedes-Benz GLE",
+      "price": "₹96.40 Lakh - 1.15 Crore*",
+      "image": "https://i.pinimg.com/1200x/22/fb/78/22fb7858f90a79c917a4a2efae786ce1.jpg",
+      "rating": 4.7,
+      "reviews": 560,
+      "fuel": ["Petrol", "Diesel"],
+      "transmission": ["Automatic"],
+      "engine": "2999cc / 1950cc",
+      "power": "362 bhp / 265 bhp",
+      "mileage": "9.7 - 14.0 kmpl",
+      "groundClearance": "205mm",
+      "bootSpace": "630 - 2055 liters",
+      "safetyRating": "5 Star Euro NCAP",
+      "features": ["MBUX", "Air Suspension", "Burmester", "360° Camera"],
+      "offers": "Star Ease Program",
+      "isPopular": true,
+      "description": "The Mercedes-Benz GLE is a luxury SUV combining opulence, technology, and off-road capability.",
+      "variants": [
+        {
+          "name": "GLE 300d 4MATIC",
+          "price": "₹96.40 Lakh*",
+          "fuel": "Diesel",
+          "transmission": "Automatic",
+          "waitingPeriod": "3-4 months"
+        },
+        {
+          "name": "GLE 450 4MATIC",
+          "price": "₹1.10 Crore*",
+          "fuel": "Petrol",
+          "transmission": "Automatic",
+          "waitingPeriod": "3-4 months"
+        }
+      ],
+      "pros": [
+        "Opulent cabin with cutting-edge tech",
+        "Smooth and powerful engines",
+        "Excellent ride comfort"
+      ],
+      "cons": [
+        "High maintenance costs",
+        "Complex infotainment system"
+      ],
+      "highlights": [
+        "MBUX with voice control",
+        "Available with air suspension",
+        "7-seater option"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Lamborghini Urus SE",
+      "price": "₹4.57 Crore*",
+      "image": "https://i.pinimg.com/736x/d2/b8/02/d2b802bbf5eb046aea4477955fce0782.jpg",
+      "rating": 4.9,
+      "reviews": 120,
+      "fuel": ["Petrol", "Plug-in Hybrid"],
+      "transmission": ["Automatic"],
+      "engine": "3996cc V8 + Electric",
+      "power": "789 bhp",
+      "mileage": "7.8 kmpl (Petrol) / 50 km/charge",
+      "groundClearance": "158-248mm (Adjustable)",
+      "bootSpace": "616 liters",
+      "safetyRating": "Not Tested",
+      "features": ["ANIMA Drive Modes", "Carbon Ceramic Brakes", "Bang & Olufsen 3D", "Night Vision"],
+      "offers": "Customization Program",
+      "isPopular": true,
+      "description": "The Lamborghini Urus SE is the world's first plug-in hybrid super SUV with 789 bhp and electrified performance.",
+      "variants": [
+        {
+          "name": "Urus SE",
+          "price": "₹4.57 Crore*",
+          "fuel": "Plug-in Hybrid",
+          "transmission": "Automatic",
+          "waitingPeriod": "12-18 months"
+        }
+      ],
+      "pros": [
+        "Mind-blowing performance (0-100 in 3.4s)",
+        "Luxurious and customizable interior",
+        "Practical for a supercar"
+      ],
+      "cons": [
+        "Extremely expensive",
+        "High running costs"
+      ],
+      "highlights": [
+        "789 bhp combined output",
+        "First PHEV Lamborghini",
+        "Top speed 312 km/h"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Rolls-Royce Phantom",
+      "price": "₹9.50 - 11.35 Crore*",
+      "image": "https://i.pinimg.com/736x/da/18/4c/da184c40a0e5b9739b64a38300ffa19f.jpg",
+      "rating": 5.0,
+      "reviews": 45,
+      "fuel": ["Petrol"],
+      "transmission": ["Automatic"],
+      "engine": "6749cc V12",
+      "power": "563 bhp",
+      "mileage": "7.1 kmpl",
+      "groundClearance": "164mm",
+      "bootSpace": "548 liters",
+      "safetyRating": "Not Applicable",
+      "features": ["Starlight Headliner", "Bespoke Audio", "Rear Theatre", "Magic Carpet Ride"],
+      "offers": "Bespoke Commission",
+      "isPopular": true,
+      "description": "The Rolls-Royce Phantom is the pinnacle of automotive luxury and craftsmanship.",
+      "variants": [
+        {
+          "name": "Phantom Series II",
+          "price": "₹9.50 Crore*",
+          "fuel": "Petrol",
+          "transmission": "Automatic",
+          "waitingPeriod": "12-24 months"
+        },
+        {
+          "name": "Phantom Extended",
+          "price": "₹11.35 Crore*",
+          "fuel": "Petrol",
+          "transmission": "Automatic",
+          "waitingPeriod": "12-24 months"
+        }
+      ],
+      "pros": [
+        "Unmatched luxury and craftsmanship",
+        "Effortless performance with silence",
+        "Fully bespoke customization"
+      ],
+      "cons": [
+        "Prohibitive cost",
+        "Low fuel efficiency"
+      ],
+      "highlights": [
+        "Icon of luxury motoring",
+        "Hand-built in Goodwood",
+        "Starlight headliner with 1,344 fiber optics"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Skoda Kodiaq",
+      "price": "₹39.99 Lakh*",
+      "image": "https://i.pinimg.com/1200x/03/06/93/0306930adb91cae2c58f0ea808425b08.jpg",
+      "rating": 4.4,
+      "reviews": 380,
+      "fuel": ["Petrol"],
+      "transmission": ["Automatic"],
+      "engine": "1984cc",
+      "power": "188 bhp",
+      "mileage": "13.32 kmpl",
+      "groundClearance": "192mm",
+      "bootSpace": "270 - 2005 liters",
+      "safetyRating": "5 Star Euro NCAP",
+      "features": ["Virtual Cockpit", "Canton Sound", "Matrix LED", "7-Seater"],
+      "offers": "Loyalty Bonus",
+      "isPopular": true,
+      "description": "The Skoda Kodiaq is a premium 7-seater SUV with European build quality and practicality.",
+      "variants": [
+        {
+          "name": "Kodiaq L&K",
+          "price": "₹39.99 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Automatic",
+          "waitingPeriod": "1-2 months"
+        }
+      ],
+      "pros": [
+        "Spacious and flexible 7-seater cabin",
+        "Refined 2.0 TSI engine with AWD",
+        "Premium build and safety"
+      ],
+      "cons": [
+        "No diesel option in 2025",
+        "Slightly firm ride on 19-inch wheels"
+      ],
+      "highlights": [
+        "Only 7-seater in segment under 40L",
+        "Skoda's Simply Clever features",
+        "5-star Euro NCAP"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Audi Q5",
+      "price": "₹65.18 - 70.45 Lakh*",
+      "image": "https://i.pinimg.com/1200x/00/59/34/0059345d9b3cfaa20b25b5779b69e988.jpg",
+      "rating": 4.5,
+      "reviews": 290,
+      "fuel": ["Petrol"],
+      "transmission": ["Automatic"],
+      "engine": "1984cc",
+      "power": "261 bhp",
+      "mileage": "13.47 kmpl",
+      "groundClearance": "200mm",
+      "bootSpace": "520 liters",
+      "safetyRating": "5 Star Euro NCAP",
+      "features": ["Virtual Cockpit Plus", "Matrix LED", "Bang & Olufsen", "Park Assist"],
+      "offers": "Service Package",
+      "isPopular": true,
+      "description": "The Audi Q5 is a luxury midsize SUV blending performance, comfort, and cutting-edge technology.",
+      "variants": [
+        {
+          "name": "Q5 Premium Plus",
+          "price": "₹65.18 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Automatic",
+          "waitingPeriod": "2-3 months"
+        },
+        {
+          "name": "Q5 Technology",
+          "price": "₹70.45 Lakh*",
+          "fuel": "Petrol",
+          "transmission": "Automatic",
+          "waitingPeriod": "2-3 months"
+        }
+      ],
+      "pros": [
+        "Quattro AWD system",
+        "Refined cabin with top-notch materials",
+        "Balanced ride and handling"
+      ],
+      "cons": [
+        "No diesel or hybrid option",
+        "Third-row not available"
+      ],
+      "highlights": [
+        "Best-selling Audi SUV in India",
+        "quattro with ultra technology",
+        "0-100 in 6.1 seconds"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Porsche 911 Carrera",
+      "price": "₹1.99 - 2.44 Crore*",
+      "image": "https://i.pinimg.com/736x/ec/a8/d9/eca8d9c9c9255b4bfec0e69fb31a6f72.jpg",
+      "rating": 4.9,
+      "reviews": 180,
+      "fuel": ["Petrol"],
+      "transmission": ["Manual", "Automatic"],
+      "engine": "2981cc Flat-6",
+      "power": "380 - 473 bhp",
+      "mileage": "9.0 - 11.1 kmpl",
+      "groundClearance": "109mm",
+      "bootSpace": "132 + 264 liters",
+      "safetyRating": "Not Tested",
+      "features": ["Sport Chrono", "PASM", "Bose", "Rear-Axle Steering"],
+      "offers": "Porsche Approved",
+      "isPopular": true,
+      "description": "The Porsche 911 is the ultimate sports car with timeless design and exhilarating performance.",
+      "variants": [
+        {
+          "name": "911 Carrera",
+          "price": "₹1.99 Crore*",
+          "fuel": "Petrol",
+          "transmission": "Automatic",
+          "waitingPeriod": "6-12 months"
+        },
+        {
+          "name": "911 Carrera 4S",
+          "price": "₹2.44 Crore*",
+          "fuel": "Petrol",
+          "transmission": "Automatic",
+          "waitingPeriod": "6-12 months"
+        }
+      ],
+      "pros": [
+        "Iconic design and handling",
+        "Everyday usability with supercar pace",
+        "Heritage and resale value"
+      ],
+      "cons": [
+        "Tight rear seats",
+        "Options increase price rapidly"
+      ],
+      "highlights": [
+        "Over 60 years of evolution",
+        "0-100 in 4.0s (Carrera S)",
+        "Rear-engine layout"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Bentley Continental GT",
+      "price": "₹5.23 - 8.45 Crore*",
+      "image": "https://i.pinimg.com/736x/df/a3/ec/dfa3ece3e57d20b7cc7fcad18c676177.jpg",
+      "rating": 5.0,
+      "reviews": 65,
+      "fuel": ["Petrol", "Plug-in Hybrid"],
+      "transmission": ["Automatic"],
+      "engine": "3996cc V8 / 2995cc V6 + Electric",
+      "power": "542 - 771 bhp",
+      "mileage": "8.5 kmpl / 50 km/charge (Hybrid)",
+      "groundClearance": "125mm",
+      "bootSpace": "358 liters",
+      "safetyRating": "Not Tested",
+      "features": ["Naim Audio", "Rotating Display", "Air Suspension", "Diamond Knurling"],
+      "offers": "Mulliner Personalisation",
+      "isPopular": true,
+      "description": "The Bentley Continental GT is the ultimate grand tourer combining handcrafted luxury with blistering performance.",
+      "variants": [
+        {
+          "name": "Continental GT V8",
+          "price": "₹5.23 Crore*",
+          "fuel": "Petrol",
+          "transmission": "Automatic",
+          "waitingPeriod": "12-18 months"
+        },
+        {
+          "name": "Continental GT Speed Hybrid",
+          "price": "₹8.45 Crore*",
+          "fuel": "Plug-in Hybrid",
+          "transmission": "Automatic",
+          "waitingPeriod": "12-18 months"
+        }
+      ],
+      "pros": [
+        "Handcrafted interior with unmatched luxury",
+        "0-100 in 3.5s (Speed Hybrid)",
+        "Effortless grand touring"
+      ],
+      "cons": [
+        "Very expensive to maintain",
+        "Heavy weight affects agility"
+      ],
+      "highlights": [
+        "771 bhp hybrid with 50 km electric range",
+        "World's most luxurious grand tourer",
+        "Rotating center display"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Ferrari Roma",
+      "price": "₹3.76 Crore*",
+      "image": "https://i.pinimg.com/1200x/f9/b0/e3/f9b0e3a338dd45ac46141f59f04ee364.jpg",
+      "rating": 4.9,
+      "reviews": 90,
+      "fuel": ["Petrol"],
+      "transmission": ["Automatic"],
+      "engine": "3855cc V8",
+      "power": "612 bhp",
+      "mileage": "8.9 kmpl",
+      "groundClearance": "113mm",
+      "bootSpace": "272 + 345 liters",
+      "safetyRating": "Not Tested",
+      "features": ["Manettino Dial", "Ferrari Dynamic Enhancer", "Apple CarPlay", "Dual Cockpit"],
+      "offers": "7-Year Maintenance",
+      "isPopular": true,
+      "description": "The Ferrari Roma is a stunning 2+2 grand tourer with elegant design and V8 performance.",
+      "variants": [
+        {
+          "name": "Roma",
+          "price": "₹3.76 Crore*",
+          "fuel": "Petrol",
+          "transmission": "Automatic",
+          "waitingPeriod": "18-24 months"
+        }
+      ],
+      "pros": [
+        "Beautiful Pininfarina design",
+        "0-100 in 3.4 seconds",
+        "Usable boot and rear seats"
+      ],
+      "cons": [
+        "No manual transmission",
+        "Limited dealer network"
+      ],
+      "highlights": [
+        "Most beautiful Ferrari in decades",
+        "612 bhp twin-turbo V8",
+        "Front-mid engine layout"
+      ]
+    }
+  ]
+}
